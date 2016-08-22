@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="usd_bdt">USD(US Dollar) To BDT(Bangladeshi Taka)</string>
+    <string name="eur_bdt">EUR(Euro) To BDT(Bangladeshi Taka)</string>
+    <string name="inr_bdt">INR(Indian Rupee) To BDT(Bangladeshi Taka)</string>
+    <string name="pkr_bdt">PKR(Pakistani Rupee) To BDT(Bangladeshi Taka)</string>
+    <string name="qar_bdt">QAR(QATARI Reyal) To BDT(Bangladeshi Taka)</string>
+    <string name="sar_bdt">SAR(Saudi Reyal) To BDT(Bangladeshi Taka)</string>
+    <string name="myr_bdt">MYR(Malaysian Ringgit) To BDT(Bangladeshi Taka)</string>
+    <string name="jod_bdt">JOD(Jordanian Dinar) To BDT(Bangladeshi Taka)</string>
+    <string name="usd_text">USD(US Dollar)</string>
+    <string name="bdt_text">BDT(Bangladeshi Taka)</string>
+    <string name="convert_cmd">Convert</string>
+    <string name="eur_text">EUR(Euro)</string>
+    <string name="inr_text">INR(Indian Rupee)</string>
+    <string name="pkr_text">PKR(Pakistani Rupee)</string>
+    <string name="qar_text">QAR(Qatari Reyal)</string>
+    <string name="sar_text">SAR(Saudi Reyal)</string>
+    <string name="myr_text">MYR(Malaysian Ranggit)</string>
+    <string name="jod_text">JOD(Jordanian Dinar)</string>
+</resources>
